@@ -1,3 +1,28 @@
+📺 Movie App - Netflix Clone
+
+This is a React.js project where I built a Netflix clone as part of my learning journey. The app uses The Movie Database (TMDB) API to fetch movie data, including genres, trending titles, and Netflix Originals. It also features movie trailers using react-youtube and movie-trailer.js.
+
+
+🚀 Features
+
+	•	Fetch movies from TMDB API.
+	•	Categorized movies into genres (Trending, Action, Comedy, Horror, etc.).
+	•	Dynamic movie trailer playback with YouTube integration.
+	•	Fully responsive layout inspired by Netflix’s design.
+	•	Interactive UI using React.js and CSS.
+
+
+ Technologies Used
+![image](https://github.com/user-attachments/assets/59bb460d-f1a1-4e86-9c5f-e6c8f858608d)
+![image](https://github.com/user-attachments/assets/b5026ba3-6b57-4490-a712-bc6dba7679e2)
+
+📋 Requirements
+
+To run this project, you’ll need:
+	•	Node.js (v14+ recommended)
+	•	npm or yarn
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
